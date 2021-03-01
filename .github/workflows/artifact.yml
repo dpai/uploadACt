@@ -4,8 +4,6 @@ on: [push]
 
 env: 
   artifact_name: myartifact
-  
-  
 jobs:
   main:
     runs-on: ubuntu-latest
